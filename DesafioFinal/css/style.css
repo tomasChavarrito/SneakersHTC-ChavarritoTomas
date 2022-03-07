@@ -1,0 +1,32 @@
+.titulo{
+    text-align: center;
+    color: white;
+}
+
+.eslogan{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding: 50px 50px 50px 50px;
+}
+
+.parallax{
+    background-image: url(/DesafioFinal/assets/fondoHTCpantalla.jpg);
+}
+
+.pie{
+    font-size: 15px;
+    color: rgb(192, 3, 3)
+}
+
+.accordion{
+    width: 80%;
+    padding: 50px 50px 50px 50px;
+    
+}
+
+
+------------------------------------------------------------------------------------------------------
+
+
+
